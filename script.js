@@ -1,1 +1,1 @@
-//hello this is the script file and i used barch=nh system to build this in git hub 
+//hello this is the script file and i used barch=nh system to build this in git hub .
