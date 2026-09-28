@@ -1,1 +1,3 @@
 //hello this is the script file and i used barch=nh system to build this in this shoul be done tetra.
+//hello this is the script file and i used barch=nh system to build this in this shoul be done thrice.
+
